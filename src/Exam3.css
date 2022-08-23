@@ -1,0 +1,15 @@
+button { 
+    color: #fff;
+    width: 100px;
+    padding: 10px;
+    border: 0;
+    border-radius: 15px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin: 10px;
+}
+.red { background-color: red; }
+.blue { background-color: blue; }
+.green { background-color: green; }
+
+input { height: 30px; width: 200px; font-size: 1rem; }
